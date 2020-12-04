@@ -2,6 +2,10 @@
 
 
 # proyecto-git-clase1-2611
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8819a8a22d8244c69d43cc552a99c89e8e8f3b70
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
